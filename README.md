@@ -68,7 +68,7 @@ You can visualize the journey from raw text to vector using diagrams like:
 ### 🚀 Ready to Dive into the Vector World?
 
 Feel free to explore the code, visualize embeddings, and modify the dataset to test new ideas.  
-This assignment is a stepping stone toward mastering NLP foundations and vector space thinking.
+This project is a stepping stone toward mastering NLP foundations and vector space thinking.
 
 ---
 
