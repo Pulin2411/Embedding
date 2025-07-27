@@ -1,7 +1,7 @@
 
-# 🧠 Text Embedding Exploration: NLP Embedding Assignment
+# 🧠 Text Embedding Exploration: NLP Embedding Project
 
-Welcome to the **Embedding Assignment** – a practical and insightful project designed to explore the power of text embedding techniques in Natural Language Processing (NLP). This project demonstrates how raw text can be transformed into meaningful numerical vectors that machines can understand and process.  
+Welcome to the **Embedding Project** – a practical and insightful project designed to explore the power of text embedding techniques in Natural Language Processing (NLP). This project demonstrates how raw text can be transformed into meaningful numerical vectors that machines can understand and process.  
 
 ---
 
